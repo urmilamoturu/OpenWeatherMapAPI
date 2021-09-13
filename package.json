@@ -1,0 +1,20 @@
+{
+  "name": "openweathermap",
+  "version": "1.0.0",
+  "description": "API automation for open weather map API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testTimeout 60000 --verbose"
+  },
+  "author": "Urmila Moturu",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "axios": "^0.21.4",
+    "babel-jest": "^27.1.1",
+    "jest": "^27.1.1",
+    "jest-html-reporters": "^2.1.6",
+    "jest-runner-groups": "^2.1.0"
+  }
+}
