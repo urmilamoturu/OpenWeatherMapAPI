@@ -1,6 +1,6 @@
 {
-	"pageTitle": "Your test suite",
-	"outputPath": "test-report/index.html",
-	"includeFailureMsg": false,
-	"styleOverridePath": "src/teststyle.css"
+    "pageTitle": "Your test suite",
+    "outputPath": "test-report/index.html",
+    "includeFailureMsg": false,
+    "styleOverridePath": "src/teststyle.css"
 }
